@@ -1,56 +1,62 @@
 # Hey there! 👋 I'm Tommy Liu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Ex-Tencent+%26+NetEase;LaTeX+Editor+Developer;Web3+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with a love for creating innovative solutions and contributing to the open-source community. When I'm not coding, you'll find me exploring the latest in AI technology, contributing to exciting projects, or sharing knowledge with fellow developers.
+I'm a passionate **Fullstack Engineer** with experience at leading tech companies **Tencent** and **NetEase Games**. I specialize in creating scalable web applications and real-time collaborative systems. Currently pursuing my Master's in Software Engineering at the University of Western Australia.
 
-- 🔭 I'm currently working on **AI-powered web applications** and **machine learning projects**
-- 🌱 I'm currently learning **Rust**, **WebAssembly**, and **Advanced React Patterns**
-- 👯 I'm looking to collaborate on **open-source projects** and **innovative startups**
-- 🤔 I'm looking for help with **distributed systems** and **cloud architecture**
-- 💬 Ask me about **React**, **Node.js**, **Python**, **AI/ML**, or **anything tech-related**
-- 📫 How to reach me: **tommy.liu.dev@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes and I collect vintage keyboards!**
+- 🔭 I'm currently leading development of **[Arxtect](https://www.arxtect.cn/)** - a real-time collaborative LaTeX editor
+- 🌱 I'm currently exploring **Web3 technologies** and **blockchain development**
+- 👯 I'm looking to collaborate on **Web3 projects** and **innovative startups**
+- 🎯 I'm seeking opportunities to **enter the Web3 sector**
+- 💬 Ask me about **React**, **Next.js**, **Golang**, **TypeScript**, **real-time collaboration**, or **LaTeX**
+- 📫 How to reach me: **tommyjqliu@outlook.com**
+- 🏆 **1st Place** - Battle Of The Bots AI competition (26 teams)
+- 🎓 **Education**: SCUT (Bachelor) → UWA (Master) in Software Engineering
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Machine Learning & Data
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -73,28 +79,53 @@ I'm a passionate **Full-Stack Developer** with a love for creating innovative so
 
 ## 🎯 Current Projects
 
-### 🤖 AI-Powered Code Assistant
-Building an intelligent code completion tool using transformers and fine-tuned models.
-- **Tech Stack:** Python, TensorFlow, React, FastAPI
-- **Status:** In Development 🚧
+### 📄 Arxtect - Real-time Collaborative LaTeX Editor
+Leading development of **[Arxtect](https://www.arxtect.cn/)** - an online real-time collaborative LaTeX editor platform.
+- **Tech Stack:** Golang, Next.js, React, WebSocket, JWT, PostgreSQL
+- **Role:** Fullstack Engineer & Technical Lead
+- **Achievements:** Resolved 90% of existing issues, implemented real-time document synchronization
+- **Status:** Production 🚀
 
-### 🌐 Real-time Collaboration Platform  
-A modern workspace for remote teams with video chat, document sharing, and project management.
-- **Tech Stack:** Next.js, Node.js, Socket.io, PostgreSQL
-- **Status:** Beta Testing 🧪
+### 🤖 UWAjudge - Code Judge System
+Led a team of five to develop a comprehensive code judge system for UWA CS department.
+- **Tech Stack:** Next.js, Docker, RabbitMQ, AWS, PostgreSQL, Azure AD
+- **Role:** Team Lead & Project Manager
+- **Features:** Queue management, Azure AD integration, automated testing
+- **Status:** Deployed ✅
 
-### 📱 Mobile-First E-commerce Solution
-Headless commerce platform with React Native mobile app and admin dashboard.
-- **Tech Stack:** React Native, Node.js, GraphQL, MongoDB
-- **Status:** Planning Phase 📋
+## 💼 Professional Experience
 
-## 🏆 Achievements & Contributions
+### 🚀 Fullstack Engineer - Jancsitech (Jan 2025 - Present)
+*Remote*
+- Architected and refactored realtime collaborative LaTeX editor platform, resolving 90% of existing issues
+- Developed end-to-end features including real-time document synchronization using WebSockets
+- Implemented user authentication with JWT and file management APIs in Golang
 
-- 🥇 **Winner** - Local Hackathon 2023 (AI Category)
-- 🌟 **500+ Stars** across personal repositories
-- 📝 **50+ Pull Requests** contributed to open-source projects
-- 🎤 **Speaker** at 3 local tech meetups
-- 📚 **Mentor** for junior developers in coding bootcamps
+### 🎮 Frontend Engineer - NetEase Games (July 2022 - July 2023) 
+*Guangzhou, China*
+- Led a team of three in frontend project development, designed and coded system modules
+- Maintained and improved internal UI component libraries used by hundreds of developers
+- Optimized project architecture and DevOps process, reducing CI time from 20 minutes to 4 minutes
+
+### 🐧 Frontend Engineer Intern - Tencent (Nov 2020 - Nov 2021)
+*Guangzhou, China*  
+- Implemented service worker preload feature, reducing initial page load from 2.4s to 0.48s (80% improvement)
+- Coded 20+ requirements from UI features to algorithm modules
+- Refactored project modules from vanilla JavaScript to Vue.js
+
+## 🏆 Achievements & Education
+
+### 🎓 Education
+- **Master of Professional Engineering (Software Engineering)** - University of Western Australia (2023-2025) | WAM: 76
+- **Bachelor of Software Engineering** - South China University of Technology (2018-2022) | WAM: 84
+
+### 🏅 Competitions & Awards  
+- 🥇 **1st Place** - Battle Of The Bots AI Competition (Sep 2024) - Ranked 1st out of 26 teams
+- 🤖 **AI Poker Bot** - Implemented using self-play deep reinforcement learning algorithms
+
+### 🌐 Languages
+- **English** - Proficient (PTE Average 78)
+- **Chinese** - Native (Mandarin, Cantonese)
 
 ## 📈 Activity Graph
 
@@ -107,10 +138,9 @@ Headless commerce platform with React Native mobile app and admin dashboard.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tommyjqliu)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tommyjqliu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://tommyliu.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommy.liu.dev@gmail.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tommyjqliu)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommyjqliu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommyjqliu@outlook.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8613129043259)
 
 </div>
 
