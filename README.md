@@ -1,18 +1,17 @@
 # Hey there! 👋 I'm Tommy Liu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Ex-Tencent+%26+NetEase;LaTeX+Editor+Developer;Web3+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Lead+Fullstack+Engineer;Ex-Tencent+%26+NetEase;AI+SaaS+Platform+Architect;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Fullstack Engineer** with experience at leading tech companies **Tencent** and **NetEase Games**. I specialize in creating scalable web applications and real-time collaborative systems. Currently pursuing my Master's in Software Engineering at the University of Western Australia.
+I'm a passionate **Lead Fullstack Engineer** with experience at leading tech companies **Tencent** and **NetEase Games**. I specialize in building scalable AI-powered SaaS platforms and real-time collaborative systems. I hold a Master's in Software Engineering from the University of Western Australia.
 
-- 🔭 I'm currently leading development of **[Arxtect](https://www.arxtect.cn/)** - a real-time collaborative LaTeX editor
-- 🌱 I'm currently exploring **Web3 technologies** and **blockchain development**
-- 👯 I'm looking to collaborate on **Web3 projects** and **innovative startups**
-- 🎯 I'm seeking opportunities to **enter the Web3 sector**
-- 💬 Ask me about **React**, **Next.js**, **Golang**, **TypeScript**, **real-time collaboration**, or **LaTeX**
+- 🔭 I'm currently leading development of **[DeepLumen](https://www.deeplumen.com)** - an AI brand analytics SaaS platform, and **[arXtect](https://www.arxtect.cn/)** - a real-time collaborative LaTeX editor
+- 🤖 I'm passionate about **AI/LLM integration**, **RAG pipelines**, and **multimodal analysis**
+- 👯 I'm looking to collaborate on **AI-powered products** and **innovative startups**
+- 💬 Ask me about **React**, **Next.js**, **Golang**, **TypeScript**, **LLM integration**, or **system design**
 - 📫 How to reach me: **tommyjqliu@outlook.com**
 - 🏆 **1st Place** - Battle Of The Bots AI competition (26 teams)
 - 🎓 **Education**: SCUT (Bachelor) → UWA (Master) in Software Engineering
@@ -30,35 +29,32 @@ I'm a passionate **Fullstack Engineer** with experience at leading tech companie
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![ECharts](https://img.shields.io/badge/-ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-### Backend
+### Backend & Infrastructure
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### Machine Learning & Data
+### AI & LLM
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
-### Tools & Others
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -79,39 +75,46 @@ I'm a passionate **Fullstack Engineer** with experience at leading tech companie
 
 ## 🎯 Current Projects
 
-### 📄 Arxtect - Real-time Collaborative LaTeX Editor
-Leading development of **[Arxtect](https://www.arxtect.cn/)** - an online real-time collaborative LaTeX editor platform.
-- **Tech Stack:** Golang, Next.js, React, WebSocket, JWT, PostgreSQL
-- **Role:** Fullstack Engineer & Technical Lead
-- **Achievements:** Resolved 90% of existing issues, implemented real-time document synchronization
+### 🧠 DeepLumen - AI Brand Analytics SaaS
+Leading development of **[DeepLumen](https://www.deeplumen.com)** - a full-stack AI brand analytics platform.
+- **Tech Stack:** React, Golang (Gin/GORM), gRPC, PostgreSQL, Redis, RabbitMQ, Docker
+- **Role:** Lead Full-Stack Engineer
+- **Highlights:** 6+ LLM providers, multimodal analysis, RAG pipelines, multi-tenant architecture
+- **Status:** Production 🚀
+
+### 📄 arXtect - Real-time Collaborative LaTeX Editor
+Shipped **[arXtect](https://www.arxtect.cn/)** - an online real-time collaborative LaTeX editor platform.
+- **Tech Stack:** React, TypeScript, Golang, WebSocket, PostgreSQL
+- **Role:** Fullstack Engineer
+- **Highlights:** Real-time document synchronization, file management microservices
 - **Status:** Production 🚀
 
 ### 🤖 UWAjudge - Code Judge System
-Led a team of five to develop a comprehensive code judge system for UWA CS department.
-- **Tech Stack:** Next.js, Docker, RabbitMQ, AWS, PostgreSQL, Azure AD
-- **Role:** Team Lead & Project Manager
-- **Features:** Queue management, Azure AD integration, automated testing
+Led a team of five to develop **[UWAjudge](https://uwajudge.tommydev.com)** for the UWA CS department.
+- **Tech Stack:** Next.js, Docker, RabbitMQ, AWS, PostgreSQL
+- **Role:** Tech Lead
+- **Features:** Queue management, Docker sandbox isolation, automated testing
 - **Status:** Deployed ✅
 
 ## 💼 Professional Experience
 
-### 🚀 Fullstack Engineer - Jancsitech (Jan 2025 - Present)
+### 🚀 Lead Full-Stack Engineer - Jancsitech (Jan 2024 - Present)
 *Remote*
-- Architected and refactored realtime collaborative LaTeX editor platform, resolving 90% of existing issues
-- Developed end-to-end features including real-time document synchronization using WebSockets
-- Implemented user authentication with JWT and file management APIs in Golang
+- Architected DeepLumen, a full-stack AI brand analytics SaaS platform from ground up
+- Designed layered backend architecture with Temporal workflow orchestration and gRPC microservices
+- Integrated 6+ LLM providers via headless browser session simulation for automated data generation
+- Shipped arXtect, a real-time collaborative LaTeX editor with WebSocket sync
 
-### 🎮 Frontend Engineer - NetEase Games (July 2022 - July 2023) 
+### 🎮 Frontend Engineer - NetEase Games (July 2022 - July 2023)
 *Guangzhou, China*
-- Led a team of three in frontend project development, designed and coded system modules
-- Maintained and improved internal UI component libraries used by hundreds of developers
-- Optimized project architecture and DevOps process, reducing CI time from 20 minutes to 4 minutes
+- Led a 3-person frontend team, owning requirements breakdown, technical design, and delivery of core system modules
+- Maintained and enhanced internal React component library with TypeScript strict mode, serving hundreds of developers
+- Rebuilt CI/CD pipeline with parallel builds and caching, reducing pipeline time from 20 min to 4 min (80% improvement)
 
 ### 🐧 Frontend Engineer Intern - Tencent (Nov 2020 - Nov 2021)
-*Guangzhou, China*  
-- Implemented service worker preload feature, reducing initial page load from 2.4s to 0.48s (80% improvement)
-- Coded 20+ requirements from UI features to algorithm modules
-- Refactored project modules from vanilla JavaScript to Vue.js
+*Guangzhou, China*
+- Implemented Service Worker preload and code-splitting strategies, reducing LCP from 2.4s to 0.48s (80% improvement)
+- Independently delivered 20+ business requirements spanning UI interactions, data visualization, and algorithm modules
 
 ## 🏆 Achievements & Education
 
@@ -119,9 +122,9 @@ Led a team of five to develop a comprehensive code judge system for UWA CS depar
 - **Master of Professional Engineering (Software Engineering)** - University of Western Australia (2023-2025) | WAM: 76
 - **Bachelor of Software Engineering** - South China University of Technology (2018-2022) | WAM: 84
 
-### 🏅 Competitions & Awards  
+### 🏅 Competitions & Awards
 - 🥇 **1st Place** - Battle Of The Bots AI Competition (Sep 2024) - Ranked 1st out of 26 teams
-- 🤖 **AI Poker Bot** - Implemented using self-play deep reinforcement learning algorithms
+- 🤖 **AI Poker Bot** - Built AI agent using self-play deep reinforcement learning
 
 ### 🌐 Languages
 - **English** - Proficient (PTE Average 78)
@@ -153,7 +156,7 @@ Led a team of five to develop a comprehensive code judge system for UWA CS depar
 ---
 
 <div align="center">
-  
+
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
 <img src="https://komarev.com/ghpvc/?username=tommyjqliu&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
