@@ -8,7 +8,7 @@
 
 I'm a passionate **Lead Fullstack Engineer** with experience at leading tech companies **Tencent** and **NetEase Games**. I specialize in building scalable AI-powered SaaS platforms and real-time collaborative systems. I hold a Master's in Software Engineering from the University of Western Australia.
 
-- 🔭 I'm currently leading development of **[DeepLumen](https://www.deeplumen.com)** - an AI brand analytics SaaS platform, and **[arXtect](https://www.arxtect.cn/)** - a real-time collaborative LaTeX editor
+- 🔭 I'm currently leading development of **[DeepLumen](https://www.deeplumen.com)** - an AI brand analytics SaaS platform
 - 🤖 I'm passionate about **AI/LLM integration**, **RAG pipelines**, and **multimodal analysis**
 - 👯 I'm looking to collaborate on **AI-powered products** and **innovative startups**
 - 💬 Ask me about **React**, **Next.js**, **Golang**, **TypeScript**, **LLM integration**, or **system design**
@@ -34,13 +34,14 @@ I'm a passionate **Lead Fullstack Engineer** with experience at leading tech com
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![ECharts](https://img.shields.io/badge/-ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### Backend & Infrastructure
+### Backend
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+
+### Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -49,10 +50,15 @@ I'm a passionate **Lead Fullstack Engineer** with experience at leading tech com
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+### Engineering
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Observability](https://img.shields.io/badge/-Observability-000000?style=flat-square&logo=datadog&logoColor=white)
+
 ### AI & LLM
-![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Production LLM Systems](https://img.shields.io/badge/-Production%20LLM%20Systems-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Multimodal Processing](https://img.shields.io/badge/-Multimodal%20Processing-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -76,10 +82,10 @@ I'm a passionate **Lead Fullstack Engineer** with experience at leading tech com
 ## 🎯 Current Projects
 
 ### 🧠 DeepLumen - AI Brand Analytics SaaS
-Leading development of **[DeepLumen](https://www.deeplumen.com)** - a full-stack AI brand analytics platform.
-- **Tech Stack:** React, Golang (Gin/GORM), gRPC, PostgreSQL, Redis, RabbitMQ, Docker
+Leading development of **[DeepLumen](https://www.deeplumen.com)** - a multi-tenant AI brand analytics platform.
+- **Tech Stack:** React, Go (Gin), gRPC, PostgreSQL, Redis, RabbitMQ, Temporal, Docker
 - **Role:** Lead Full-Stack Engineer
-- **Highlights:** 6+ LLM providers, multimodal analysis, RAG pipelines, multi-tenant architecture
+- **Highlights:** Multiple LLM providers (OpenAI, Gemini), multimodal analysis, RAG pipelines, async orchestration, observability
 - **Status:** Production 🚀
 
 ### 📄 arXtect - Real-time Collaborative LaTeX Editor
@@ -93,28 +99,32 @@ Shipped **[arXtect](https://www.arxtect.cn/)** - an online real-time collaborati
 Led a team of five to develop **[UWAjudge](https://uwajudge.tommydev.com)** for the UWA CS department.
 - **Tech Stack:** Next.js, Docker, RabbitMQ, AWS, PostgreSQL
 - **Role:** Tech Lead
-- **Features:** Queue management, Docker sandbox isolation, automated testing
+- **Features:** Distributed code execution, Docker sandbox isolation, async job pipeline
 - **Status:** Deployed ✅
 
 ## 💼 Professional Experience
 
 ### 🚀 Lead Full-Stack Engineer - Jancsitech (Jan 2024 - Present)
 *Remote*
-- Architected DeepLumen, a full-stack AI brand analytics SaaS platform from ground up
-- Designed layered backend architecture with Temporal workflow orchestration and gRPC microservices
-- Integrated 6+ LLM providers via headless browser session simulation for automated data generation
-- Shipped arXtect, a real-time collaborative LaTeX editor with WebSocket sync
+- Architected and delivered a multi-tenant SaaS platform end-to-end, covering React frontend, backend APIs, and database design
+- Migrated async processing from RabbitMQ to Temporal, simplifying long-running task orchestration and replacing custom retry/DLQ logic with built-in reliability guarantees
+- Implemented idempotent task handlers, retry strategies, and dead-letter queues (DLQ) to ensure reliability under failure scenarios
+- Designed PostgreSQL schemas with tenant-scoped isolation and indexed access patterns, supporting efficient query performance and safe schema evolution
+- Built production LLM pipelines integrating multiple providers (OpenAI, Gemini), including RAG workflows and multimodal analysis, with async orchestration to handle rate limits and failures
+- Implemented observability stack with structured logging, metrics (latency, error rate, queue depth), and alerting for early detection of system issues
+- Led engineering practices including code reviews, CI/CD improvements, and system design decisions across services
 
 ### 🎮 Frontend Engineer - NetEase Games (July 2022 - July 2023)
 *Guangzhou, China*
-- Led a 3-person frontend team, owning requirements breakdown, technical design, and delivery of core system modules
-- Maintained and enhanced internal React component library with TypeScript strict mode, serving hundreds of developers
-- Rebuilt CI/CD pipeline with parallel builds and caching, reducing pipeline time from 20 min to 4 min (80% improvement)
+- Led a 3-engineer frontend team, owning system design and delivery of core modules
+- Maintained and scaled a shared React + TypeScript component library used across multiple products
+- Re-architected CI/CD pipeline with parallel builds and caching, reducing build time from 20 min to 4 min (80% improvement)
+- Collaborated cross-functionally to translate ambiguous product requirements into clear technical implementations
 
 ### 🐧 Frontend Engineer Intern - Tencent (Nov 2020 - Nov 2021)
 *Guangzhou, China*
-- Implemented Service Worker preload and code-splitting strategies, reducing LCP from 2.4s to 0.48s (80% improvement)
-- Independently delivered 20+ business requirements spanning UI interactions, data visualization, and algorithm modules
+- Improved performance via code-splitting and Service Worker preloading, reducing LCP from 2.4s to 0.48s (80% improvement)
+- Delivered 20+ production features independently across UI, data visualization, and interaction modules
 
 ## 🏆 Achievements & Education
 
